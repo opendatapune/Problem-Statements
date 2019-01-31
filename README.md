@@ -1,2 +1,2 @@
 # Problem-Statements
-See the issues section
+See the wiki for problem statements and issues to co-ordinate participation
